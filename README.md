@@ -1,7 +1,5 @@
 # Superstore Sales Dashboard — Excel Project
 
-![Dashboard Preview](dashboard-preview.png)
-
 ## Project Overview
 An interactive sales performance dashboard built in Excel using 
 real US retail data from 2023–2026.
