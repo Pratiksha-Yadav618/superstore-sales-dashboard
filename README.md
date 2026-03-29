@@ -35,5 +35,8 @@ real US retail data from 2023–2026.
 - Slicers and Timeline filters
 - Conditional Formatting
 
+## Preview
+![Dashboard Preview](dashboard-preview.png)
+
 ## Author
 Pratiksha Yadav — Aspiring Data Analyst
