@@ -36,7 +36,7 @@ real US retail data from 2023–2026.
 - Conditional Formatting
 
 ## Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.png.png)
 
 ## Author
 Pratiksha Yadav — Aspiring Data Analyst
